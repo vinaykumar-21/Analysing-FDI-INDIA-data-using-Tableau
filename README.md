@@ -1,5 +1,5 @@
 # Analysing-FDI-INDIA-data-using-Tableau
-In this case study I have taken a FDI (Foreign Direct Investment) dataset and analysed it from the of a business Aspects. Also analysed at various sectors will prove most beneficial to collaborate with for the company.Built dashboard and story
+In this case study I have taken a FDI (Foreign Direct Investment) dataset and analysed it from the of a business Aspects. Also analysed at various sectors will prove most beneficial to collaborate with for the company.Built dashboard and story\n
 Which sector recieves maximum direct for the given year.
 Which sector recieves minimum direct for the given year.
 Is there a trend for a direct investments for individual sectors?
